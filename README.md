@@ -4,4 +4,4 @@
 <!--
 **mojdehsap/mojdehsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin](www.linkedin.com/in/mojdeh-saadat)
+[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][linkedin](https://www.linkedin.com/in/mojdehsaadatpour/) 
