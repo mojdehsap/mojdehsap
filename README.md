@@ -4,8 +4,8 @@
 <!--
 **mojdehsap/mojdehsap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-
-
+[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/linkedin.svg" align="left" />][Linkedin](https://www.linkedin.com/in/mojde-saadat-6b92371b2/)
+[<img width="25" src="https://unpkg.com/simple-icons@v4/icons/xing.svg" align="left" />] 
 
 
 Here are some ideas to get you started:
